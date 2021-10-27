@@ -1,0 +1,20 @@
+com/quac/bedstats/utils/ChatUtils.java
+ com.quac.bedstats.utils.ChatUtils
+com/quac/bedstats/utils/HypixelPlayerUtils.java
+ com.quac.bedstats.utils.HypixelPlayerUtils
+com/quac/bedstats/utils/ApiUtils.java
+ com.quac.bedstats.utils.ApiUtils
+com/quac/bedstats/utils/ScoreboardUtil.java
+ com.quac.bedstats.utils.ScoreboardUtil
+com/quac/bedstats/utils/TickDelay.java
+ com.quac.bedstats.utils.TickDelay
+com/quac/bedstats/core/structure/Config.java
+ com.quac.bedstats.core.structure.Config
+com/quac/bedstats/commands/MainCommand.java
+ com.quac.bedstats.commands.MainCommand
+com/quac/bedstats/eventhandlers/PlayerEvents.java
+ com.quac.bedstats.eventhandlers.PlayerEvents
+com/quac/bedstats/Main.java
+ com.quac.bedstats.Main
+com/quac/bedstats/utils/Color.java
+ com.quac.bedstats.utils.Color
