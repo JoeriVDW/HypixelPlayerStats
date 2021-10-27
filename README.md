@@ -11,10 +11,12 @@ Main usage: '/qtbedstats (username) (gamemode)'
     Also if u enter a gamemode that doesn't exist it will automatically get your or the entered user's global stats
     
     
+    
 Other commands
 
 '/qtbedstats help' - Sends about the same as this message
 
 '/qtbedstats config' - Opens the config gui
+
 
 (Current) Gamemodes: 'global', 'solos', 'doubles', 'threes', 'fours' and '4v4'
