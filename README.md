@@ -14,6 +14,7 @@ Main usage: '/qtbedstats (username) (gamemode)'
 Other commands
 
 '/qtbedstats help' - Sends about the same as this message
+
 '/qtbedstats config' - Opens the config gui
 
 (Current) Gamemodes: 'global', 'solos', 'doubles', 'threes', 'fours' and '4v4'
